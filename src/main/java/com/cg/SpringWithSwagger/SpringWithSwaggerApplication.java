@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringWithSwaggerApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Check Git Change Commit");
 		SpringApplication.run(SpringWithSwaggerApplication.class, args);
 	}
 }
